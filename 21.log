@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+A:\21\21\FileName.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+A:\21\21\FileName.cpp(5,6): warning C4101: 'year': unreferenced local variable
+  21.vcxproj -> A:\21\x64\Debug\21.exe
